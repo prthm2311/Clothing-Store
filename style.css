@@ -1,0 +1,68 @@
+Style.css
+
+h1 {
+	color: red; 
+	padding 20;
+	float: left;
+}
+
+.nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: center; 
+	align-itmes: center;
+}
+
+p {
+	color:red;
+}
+
+a {
+	color:red;
+}
+img {
+  float: left;
+}
+
+
+.n{
+	margin: 30;
+}
+
+.tshirt {
+  position: absolute;
+  top: 162%;
+  left: 4%;
+  font-size:20px;
+}
+
+.shirt {
+  position: absolute;
+  top: 162%;
+  left: 24%;
+  font-size:20px;
+}
+
+.top {
+  position: absolute;
+  top: 162%;
+  left: 44%;
+  font-size:20px;
+}
+
+.hoodie {
+  position: absolute;
+  top: 162%;
+  left: 64%;
+  font-size:20px;
+}
+
+.tshirt2 {
+  position: absolute;
+  top: 162%;
+  left: 84%;
+  font-size:20px;
+  color:white;
+}
+
+
